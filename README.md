@@ -1,4 +1,4 @@
-#Problem Statement:
+### Problem Statement:
 
 In this project, we delve deep into the thriving sector of online retail by analyzing a transactional dataset from a UK-based retailer, available at the UCI Machine Learning Repository. 
 
@@ -10,7 +10,7 @@ This segmentation will allow us to understand the distinct profiles and preferen
 
 Building upon this, we intend to develop a recommendation system that will suggest top-selling products to customers within each segment who haven't purchased those items yet, ultimately enhancing marketing efficacy and fostering increased sales.
 
-#Objectives and Workflow
+### Objectives and Workflow
 
 Data Cleaning & Transformation: Clean the dataset by handling missing values, duplicates, and outliers, preparing it for effective clustering.
 Feature Engineering: Develop new features based on the transactional data to create a customer-centric dataset, setting the foundation for customer segmentation.
